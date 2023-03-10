@@ -114,18 +114,4 @@ span{
     color: orange;
 }
 
-html{
-    font-size: 62.5%;
-}
-/* header responsive code */
-@media(max-width:998rem) {
-    html{
-        font-size: 55%;
-    }
-}
 
-@media(max-width:768rem) {
-    html{
-        font-size: 45%;
-    }
-}
